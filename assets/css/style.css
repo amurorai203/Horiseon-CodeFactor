@@ -121,7 +121,12 @@ p {
     margin-bottom: 10px;
     text-align: center;
 } */
-.benefit-section h3 {
+
+/* Update h3 to h2 following heading attirbutes sequence
+.benefit-section h3 { */
+.benefit-section h2 {
+/*  Add font size attributes to align current webpage design */
+    font-size: 1.17em;
     margin-bottom: 10px;
     text-align: center;
 }
