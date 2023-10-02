@@ -28,7 +28,7 @@ N/A
       <td>After Change</td>
     </tr>
     <tr>
-      <td><img src="https://amurorai203.github.io/Horiseon-CodeRefactor/assets/images/01-html-css-git-challenge-demo.jpg" width="500"></td>
+      <td><img src="https://amurorai203.github.io/Horiseon-CodeRefactor/assets/images/01-html-css-git-challenge-demo.png" width="500"></td>
       <td><img src="https://amurorai203.github.io/Horiseon-CodeRefactor/assets/images/01-html-css-git-challenge-result.jpg" width="500"></td>
     </tr>
   </tbody>
