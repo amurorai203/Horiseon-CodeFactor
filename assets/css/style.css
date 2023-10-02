@@ -1,13 +1,16 @@
+/* CSS apply to all elements */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* CSS apply to body element */
 body {
     background-color: #d9dcd6;
 }
 
+/* CSS apply to class header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +18,18 @@ body {
     color: #ffffff;
 }
 
+/* CSS apply to heading h1 under class header */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* CSS apply to class seo under heading h1 of class header */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* CSS apply to div element under class header */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +38,29 @@ body {
     font-size: 20px;
 }
 
+/* CSS apply to unordered list under div element of class header */
 .header div ul {
     list-style-type: none;
 }
 
+/* CSS apply to listed item of unordered list under div element of class header */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* CSS apply to anchor element */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* CSS apply to paragraph element */
 p {
     font-size: 16px;
 }
 
+/* CSS apply to class hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,16 +70,19 @@ p {
     background-position: center;
 }
 
+/* CSS apply to class float-left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* CSS apply to class float-right */
 .float-right {
     float: right;
     margin-left: 25px;
 } 
 
+/* CSS apply to class content */
 .content {
     width: 75%;
     display: inline-block;
@@ -102,6 +116,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 } */
+/* CSS apply to class article */
 .article {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,6 +138,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 } */
+/* CSS apply to image element under class article */
 .article img {
     max-height: 200px;
 }
@@ -142,12 +158,14 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 } */
+/* CSS apply to heading h2 under class article */
 .article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /* Move benefits section to follow articles */
+/* CSS apply to class benefit */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -174,6 +192,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 } */
+/* CSS apply to class benefit-section */
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
@@ -197,6 +216,7 @@ p {
 
 /* Update h3 to h2 following heading attirbutes sequence
 .benefit-section h3 { */
+/* CSS apply to heading h2 under class benefit-section */
 .benefit-section h2 {
 /*  Add font size attributes to align current webpage design */
     font-size: 1.17em;
@@ -222,12 +242,14 @@ p {
     margin: 10px auto;
     max-width: 150px;
 } */
+/* CSS apply to image element under class benefit-section */
 .benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* CSS apply to class footer */
 .footer {
     padding: 30px;
     clear: both;
@@ -235,6 +257,7 @@ p {
     text-align: center;
 }
 
+/* CSS apply to heading h2 under class footer */
 .footer h2 {
     font-size: 20px;
 }
